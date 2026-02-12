@@ -138,8 +138,6 @@ SOS_javascript.js dentro do repositório.
 
 # 🧠 Nível do Projeto
 
-Este material demonstra:
-
 ✔ Estudo aprofundado  
 ✔ Testes práticos reais  
 ✔ Exploração além do básico  
